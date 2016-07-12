@@ -1,6 +1,7 @@
 """
 Merge Sort
 ----------
+Sorts the list using divide and conquer.
 
 Time Complexity: O(nlogn)
 

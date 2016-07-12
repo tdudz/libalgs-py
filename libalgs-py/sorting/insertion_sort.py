@@ -1,6 +1,7 @@
 """
 Insertion Sort
 --------------
+Builds the sorted array by inserting one at a time.
 
 Time Complexity: O(n^2)
 

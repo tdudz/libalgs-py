@@ -1,6 +1,7 @@
 """
 Bogo Sort
 ---------
+Picks two elements at random and swaps them until sorted.
 
 Time Complexity: O((n+1)!)
 
