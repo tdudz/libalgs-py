@@ -1,5 +1,5 @@
 """
-Min-Stack
+Min Stack
 -----
 A LIFO abstract data type that serves as a collection of elements.
 Supports retrieving the min from the stack in constant time.
