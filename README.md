@@ -8,5 +8,7 @@ Features:
   * Bogo Sort
 
 * **Data Structures:**
+  * Stack
+  * Min/Max Stack
 
 Includes docstrings with algorithm complexities and other info.
