@@ -9,6 +9,6 @@ Features:
 
 * **Data Structures:**
   * Stack
-  * Min/Max Stack
+  * Min Stack
 
 Includes docstrings with algorithm complexities and other info.
